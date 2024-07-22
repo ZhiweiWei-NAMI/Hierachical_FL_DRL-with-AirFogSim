@@ -1,0 +1,6 @@
+***Starting server on port 34253 ***
+Loading net-file from '/home/weizhiwei/data/FL_DRL_Edge/sumo_berlin/map.net.xml' ... done (198ms).
+Loading done.
+Simulation version 1.15.0 started with time: 0.00.
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
