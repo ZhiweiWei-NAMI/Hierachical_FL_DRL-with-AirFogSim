@@ -19,3 +19,5 @@ or
   doi={10.1109/OJCOMS.2024.3457023}}
 ```
 The reporduction version is on [CodeOcean](https://codeocean.com/capsule/2570132/tree) with Compute Capsule's provisional DOI: 10.24433/CO.2570132.v2
+
+For the newest version of AirFogSim platform, please refer to [AirFogSim](https://github.com/ZhiweiWei-NAMI/AirFogSim).
